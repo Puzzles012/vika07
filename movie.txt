@@ -1,12 +1,6 @@
 Lilo and sticth
 Face-off
 Krumpus
-<<<<<<< HEAD
 School of rock
-=======
 Lilo and Stitch 2
-<<<<<<< HEAD
-
-=======
->>>>>>> b26fae428452c2c6d87099b349ddaeb8cff9e6d9
->>>>>>> bdd8190409d050463bfb3b5daaa07d6cf415b00e
+Christmas with the cranks
