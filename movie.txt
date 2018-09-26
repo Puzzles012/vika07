@@ -3,4 +3,8 @@ Face-off
 Krumpus
 School of rock
 Lilo and Stitch 2
+<<<<<<< HEAD
 Space Jam
+=======
+Christmas with the cranks
+>>>>>>> 598cc77daecf41c5c01f493ddda846103fe553de
