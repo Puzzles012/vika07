@@ -1,8 +1,6 @@
 Lilo and sticth
 Face-off
 Krumpus
-<<<<<<< HEAD
 School of rock
-=======
 Lilo and Stitch 2
->>>>>>> b26fae428452c2c6d87099b349ddaeb8cff9e6d9
+Space Jam
