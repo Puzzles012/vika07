@@ -11,4 +11,8 @@ Christmas with the cranks
 >>>>>>> 598cc77daecf41c5c01f493ddda846103fe553de
 =======
 Lilo and Stitch 13
+<<<<<<< HEAD
+>>>>>>> master-olafurao
+=======
+Krampus 2
 >>>>>>> master-olafurao
